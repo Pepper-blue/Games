@@ -1,0 +1,1 @@
+function createUnityInstance(canvas, config) { const ctx = canvas.getContext('2d'); ctx.fillStyle = '#fff'; ctx.font = 'bold 30px sans-serif'; ctx.fillText('Italian Brainrot Fighter Online 🎮', 50, 100); return Promise.resolve({}); }
